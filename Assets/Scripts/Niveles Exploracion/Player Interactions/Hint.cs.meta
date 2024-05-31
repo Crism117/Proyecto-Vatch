@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 2cc591a7cca5235468779b8e0ebfc693
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hintPrefab: {instanceID: 0}
+  - hintCollectSound: {fileID: 8300000, guid: 4b1ae09a38bc941368e46fefad291984, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
